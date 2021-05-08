@@ -1,5 +1,5 @@
 """
-Draws a set of points on a scope.
+Draws a rotating cube on an osscilicope in xy mode.
 
 """
 from audiocore import RawSample
